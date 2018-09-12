@@ -13,7 +13,7 @@ API simples para manipular uma lista de usuários contendo os campos (Nome, Sobr
 - Prover documentacao minima para usar a API.
 
 
-## Listar de usuários
+## Listar usuários
 
 ACTION  | Retorna todos os usuários cadastrados
 ------------- | -------------
@@ -22,7 +22,7 @@ PARAM  | ```void```
 RETURN  | <pre>[<br />{<br />"Nome": "Nome", <br />"Sobrenome": "Sobrenome", <br />"Email": "test@mail.com", <br />"Telefone": "31999999999"<br />}, <br />{<br />"Nome": "Nome", <br />"Sobrenome": "Sobrenome", <br />"Email": "test@mail.com", <br />"Telefone": "31999999999"<br />}, <br />]</pre>
 
 
-## Cadastrar de usuário
+## Cadastrar usuário
 
 ACTION  | Cadastrar novo usuário
 ------------- | -------------
