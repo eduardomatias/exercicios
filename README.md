@@ -1,6 +1,6 @@
 # Project proposal -  CI&amp;T
 
-##Documentação Ex7 - Rest API - UserApi
+## Documentação Ex7 - Rest API - UserApi
 
 API simples para manipular uma lista de usuários contendo os campos (Nome, Sobrenome, Email e Telefone)
 
